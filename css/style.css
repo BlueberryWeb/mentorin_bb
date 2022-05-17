@@ -1,0 +1,138 @@
+#logo-header{
+    max-width: 150px;
+    margin-left: 2rem;
+}
+/*COLORES DE TEXTOS*/
+.rojo{
+    color: #cb5c50;
+}
+/*TERMINA COLORES DE TEXTOS*/
+.a_none_decoration{
+    text-decoration: none;
+    color: #fff;
+}
+.fa-bars{
+    color: #fff;
+}
+.fa-solid .fa-bars{
+    width: 100px;
+}
+.navbar{
+    position: absolute;
+    z-index: 10000;
+}
+.comunicate{
+    position: relative;
+    right: 0;
+    width: 100%;
+    min-height: 50vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+    background: #111;
+    color: #fff;
+    z-index: 2;  
+}
+.comunicate video{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0.8;
+}
+.comunicate-texto{
+    position: relative;
+    bottom: 100px;
+}
+.comunicate-texto img{
+    max-width: 300px;
+}
+.como-hacemos{
+    position: relative;
+    right: 0;
+    width: 100%;
+    min-height: 50vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+    background: #111;
+    color: #fff;
+    z-index: 2;  
+}
+.como-hacemos video{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0.8;
+}
+.showcase{
+    position: relative;
+    right: 0;
+    width: 100%;
+    min-height: 90vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+    background: #111;
+    color: #fff;
+    z-index: 2;
+}
+.showcase video{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0.8;
+}
+.text{
+    position: relative;
+    z-index: 10;
+    text-align: center;
+    bottom: 200px;
+}
+.apostrofe-menu{
+    position: absolute;
+    margin-top: -150px;
+    right: 280px;
+}
+.apostrofe-seccion{
+    position: absolute;
+    margin-top: -100px;
+    right: 460px;
+}
+.bg-azul{
+    background-color: #2a3b7d;
+}
+.bg-rojo{
+    background-color: #cb5c50;
+    color: #fff;
+}
+.logo-sec2{
+    max-width: 400px;
+}
+.btn-conoce-mas{
+    background-color: #2a3b7d;
+    border-color: #2a3b7d;
+    color: #fff;
+    width: 150px;
+    height: 45px;
+}
+.btn-conoce-como{
+    background: none;
+    border-color: #fff;
+    width: 150px;
+    height: 45px;
+}
+.pasion-seriedad img{
+    max-width: 300px;
+}
+.diagonal-derecha-roja{
+    background: linear-gradient(-30deg,#cb5c50,#cb5c50 37%,transparent 0);
+}
